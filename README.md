@@ -27,26 +27,26 @@
 # Installation :
 
 
-ðŸ˜ˆ `apt update`
+😈 `apt update`
 
-ðŸ˜ˆ `apt upgrade -y`
+😈 `apt upgrade -y`
 
-ðŸ˜ˆ `apt install git -y`
+😈 `apt install git -y`
 
-ðŸ˜ˆ `pkg install python`
+😈 `pkg install python`
 
-ðŸ˜ˆ `pkg install python2 -y`
+😈 `pkg install python2 -y`
 
-ðŸ˜ˆ `pip2 install requests`
+😈 `pip2 install requests`
 
-ðŸ˜ˆ `pip2 install mechanize`
+😈 `pip2 install mechanize`
 
-ðŸ˜ˆ `pip install lolcat`
+😈 `pip install lolcat`
 
-ðŸ˜ˆ `git clone https://github.com/lovehacker404/Dragon404`
+😈 `git clone https://github.com/lovehacker404/Dragon404`
 
-ðŸ˜ˆ `cd Dragon404`
+😈 `cd Dragon404`
 
-ðŸ‘¾ `python2 lovehacker.py`
+😈 `python2 lovehacker.py`
 
 
